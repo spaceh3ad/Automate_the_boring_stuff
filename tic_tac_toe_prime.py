@@ -1,3 +1,5 @@
+#completed example from the book
+
 import sys
 import os
 import itertools
