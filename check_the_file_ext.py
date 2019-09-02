@@ -134,11 +134,3 @@ while True:
             sys.exit()
 
 
-#
-# print('***EasyTerminal***')
-# print(path)
-# path = '/home/josh/Pictures'
-#
-#
-#
-#
