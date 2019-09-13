@@ -1,9 +1,6 @@
 #completed example from the book
 
-import sys
-import os
-import itertools
-import collections
+import sys, os, itertools, collections
 
 theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',
             'mid-L': ' ', 'mid-M': ' ', 'mid-R': ' ',
