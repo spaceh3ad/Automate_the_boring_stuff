@@ -1,2 +1,2 @@
 # Automate_the_boring_stuff
-Exercieses from the book that I decided to share. Feel free to check them out and use.
+Few exercies from the book that i found interesting to do. Some are much more extended than it was implied.
